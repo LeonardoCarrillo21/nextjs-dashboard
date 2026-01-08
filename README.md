@@ -1,4 +1,7 @@
 Next.js Financial Dashboard
+
+![Texto alternativo](https://github.com/LeonardoCarrillo21/nextjs-dashboard/blob/main/public/hero-desktop.png)
+
 Este es un panel de administración financiero completo construido con Next.js, que permite gestionar facturas, clientes e ingresos en tiempo real. El proyecto demuestra la implementación de patrones avanzados de desarrollo web moderno, optimización de rendimiento y manejo de estados del servidor.
 
 🚀 Características Principales
